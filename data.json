@@ -1,0 +1,1886 @@
+[
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "256690",
+            "name": "The Bake Feast",
+            "uuid": "52173d9c-f16d-42c0-be71-9d62920227de",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "500+ ratings",
+            "cloudinaryImageId": "qldgolaup5frcw1uu4yj",
+            "cuisines": [
+                "Bakery",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 20,
+            "minDeliveryTime": 20,
+            "maxDeliveryTime": 20,
+            "slaString": "20 MINS",
+            "lastMileTravel": 1,
+            "slugs": {
+                "restaurant": "the-bake-feast-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "243 Aswathappa building RSR Colony Immadihalli main road Whitefield Bengaluru 560066",
+            "locality": "RSR Colony",
+            "parentId": 21164,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=5745966~p=1~eid=00000185-e90c-5cf4-0b37-5ef000560141",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "256690",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "lastMileTravel": 1,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.1",
+            "totalRatings": 500,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "67547",
+            "name": "Vijayawada Heights",
+            "uuid": "85caa167-05d7-4a5d-a313-47a10465570e",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "x9pplqkscynzeyuqyqeh",
+            "cuisines": [
+                "Chinese",
+                "South Indian",
+                "North Indian",
+                "Desserts",
+                "Fast Food",
+                "Kerala",
+                "Andhra",
+                "Beverages",
+                "Seafood",
+                "Punjabi",
+                "Hyderabadi"
+            ],
+            "tags": [],
+            "costForTwo": 55000,
+            "costForTwoString": "₹550 FOR TWO",
+            "deliveryTime": 32,
+            "minDeliveryTime": 32,
+            "maxDeliveryTime": 32,
+            "slaString": "32 MINS",
+            "lastMileTravel": 1.2000000476837158,
+            "slugs": {
+                "restaurant": "vijayawada-heights-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "1-339, 10th cross ambedkar nagar,Whitefield, Bangalore 66, OPP ROYAL MART",
+            "locality": "Ambedkar Nagar",
+            "parentId": 223336,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.2 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "67547",
+                "deliveryTime": 32,
+                "minDeliveryTime": 32,
+                "maxDeliveryTime": 32,
+                "lastMileTravel": 1.2000000476837158,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "376442",
+            "name": "LAKEVIEW MILK BAR",
+            "uuid": "1d4966b0-6d42-4117-a946-345211184f16",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "50+ ratings",
+            "cloudinaryImageId": "qyqkbiryjgqn7w9gujfx",
+            "cuisines": [
+                "Bakery",
+                "Desserts",
+                "Ice Cream"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 20,
+            "minDeliveryTime": 20,
+            "maxDeliveryTime": 20,
+            "slaString": "20 MINS",
+            "lastMileTravel": 0.699999988079071,
+            "slugs": {
+                "restaurant": "lakeview-milk-bar-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "273, WHITEFIELD MAIN ROAD, WHITEFIELD BANGALROE 560066",
+            "locality": "Whitefield",
+            "parentId": 585,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.6 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "376442",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "lastMileTravel": 0.699999988079071,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.4",
+            "totalRatings": 50,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "17457",
+            "name": "KFC",
+            "uuid": "3ba47acb-e136-4d74-977c-a7ebad3d1521",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "500+ ratings",
+            "cloudinaryImageId": "bdcd233971b7c81bf77e1fa4471280eb",
+            "cuisines": [
+                "Burgers",
+                "Biryani",
+                "American",
+                "Snacks",
+                "Fast Food"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "slaString": "30 MINS",
+            "lastMileTravel": 1.5,
+            "slugs": {
+                "restaurant": "kfc-whitefield-whitefield-2",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "KFC, Unit no 10, 3rd floor, Food court ,Forum Neighbourhood Mall, Whitefield Main road, Bangalore 560066",
+            "locality": "Forum Neighbourhood Mall",
+            "parentId": 547,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "20% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "20% off | Use SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "20% off up to ₹50 | Use code SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "20% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "20% off up to ₹50 | Use code SWIGGYIT",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=5782768~p=4~eid=00000185-e90c-5cf4-0b37-5ef10056045a",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.5 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "17457",
+                "deliveryTime": 30,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 1.5,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "3.8",
+            "totalRatings": 500,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "593472",
+            "name": "Grill Factory",
+            "uuid": "3c001508-e5d4-4949-9213-2e87767b3da3",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "yabdhpx21zk24cnczpnf",
+            "cuisines": [
+                "Arabian",
+                "Lebanese"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 32,
+            "minDeliveryTime": 32,
+            "maxDeliveryTime": 32,
+            "slaString": "32 MINS",
+            "lastMileTravel": 1.7999999523162842,
+            "slugs": {
+                "restaurant": "grill-factory-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "#166, Mann Food Court, A K Gopalan Colony Main Rd, Ambedkar Nagar, Whitefield, Bengaluru, Karnataka 560066, India",
+            "locality": "Ambedkar Nagar",
+            "parentId": 7289,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.7 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "593472",
+                "deliveryTime": 32,
+                "minDeliveryTime": 32,
+                "maxDeliveryTime": 32,
+                "lastMileTravel": 1.7999999523162842,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.9",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "619708",
+            "name": "Chef Bakers Channasandra",
+            "uuid": "c34e910d-821b-4eb4-8540-50def8d6f11a",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "20+ ratings",
+            "cloudinaryImageId": "gsv26e2oovcgchbjvoa8",
+            "cuisines": [
+                "Bakery",
+                "Desserts",
+                "Sweets"
+            ],
+            "tags": [],
+            "costForTwo": 50000,
+            "costForTwoString": "₹500 FOR TWO",
+            "deliveryTime": 20,
+            "minDeliveryTime": 20,
+            "maxDeliveryTime": 20,
+            "slaString": "20 MINS",
+            "lastMileTravel": 1.7999999523162842,
+            "slugs": {
+                "restaurant": "chef-bakers-channasandra-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "Suraksha stay, opp Govt collage, channasandra main, Whitefield, Bangalore-560066",
+            "locality": "channasandra",
+            "parentId": 369210,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.7 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "619708",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "lastMileTravel": 1.7999999523162842,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.7",
+            "totalRatings": 20,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "198493",
+            "name": "Leon's - Burgers & Wings (Leon Grill)",
+            "uuid": "770f712b-79a2-4ac8-8eba-342952688f18",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "1000+ ratings",
+            "cloudinaryImageId": "f6okwzxzdjj94xwuyy9l",
+            "cuisines": [
+                "American",
+                "Snacks",
+                "Turkish",
+                "Portuguese",
+                "Continental"
+            ],
+            "tags": [],
+            "costForTwo": 30000,
+            "costForTwoString": "₹300 FOR TWO",
+            "deliveryTime": 20,
+            "minDeliveryTime": 20,
+            "maxDeliveryTime": 20,
+            "slaString": "20 MINS",
+            "lastMileTravel": 1.7000000476837158,
+            "slugs": {
+                "restaurant": "leon-grillaa-5th-block-koramangala",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "Prasanth Layout, Prasanth Extension, Whitefield, Bengaluru, Karnataka 560066",
+            "locality": "Prasanth Layout",
+            "parentId": 371281,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=5777286~p=7~eid=00000185-e90c-5cf4-0b37-5ef20056072b",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.7 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "198493",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "lastMileTravel": 1.7000000476837158,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.3",
+            "totalRatings": 1000,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "629527",
+            "name": "Vinu Biryanis",
+            "uuid": "0a4a6340-73f2-4c4f-8077-3e58b178ae38",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "zau4u8ek386njcsxgajc",
+            "cuisines": [
+                "Biryani",
+                "Fast Food",
+                "Kebabs"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 29,
+            "minDeliveryTime": 29,
+            "maxDeliveryTime": 29,
+            "slaString": "29 MINS",
+            "lastMileTravel": 1.7000000476837158,
+            "slugs": {
+                "restaurant": "vinu-biryanis-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "VINU BIRYANIS 2nd floor Sri Lakshmi Venkateshwara nilaya opposite Purvi pride appartment Immadihalli hagadur main road Immadihalli Whitefield Bangalore Karnataka 560066",
+            "locality": "Hagadur Main Road",
+            "parentId": 375980,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "1.7 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "629527",
+                "deliveryTime": 29,
+                "minDeliveryTime": 29,
+                "maxDeliveryTime": 29,
+                "lastMileTravel": 1.7000000476837158,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "502186",
+            "name": "1591 Hyder Biryani",
+            "uuid": "2b62bba6-3fa7-4c29-9693-883019e4bbc4",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "Too Few Ratings",
+            "cloudinaryImageId": "d7jq8nii1zdpninjg5cg",
+            "cuisines": [
+                "Biryani"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 20,
+            "minDeliveryTime": 20,
+            "maxDeliveryTime": 20,
+            "slaString": "20 MINS",
+            "lastMileTravel": 0.20000000298023224,
+            "slugs": {
+                "restaurant": "1591-hyder-biryani-whitefield-whitefield-2",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "No. 386/35, 1st floor, Whitefield village, KR Puram Hobli Bangalore, KR Puram, BBMP East, 560066",
+            "locality": "Whitefield",
+            "parentId": 291522,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "0.2 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "502186",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "lastMileTravel": 0.20000000298023224,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "--",
+            "totalRatings": 0,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "471587",
+            "name": "Laddoos",
+            "uuid": "e73ec3d7-a83f-45df-a449-fce795614351",
+            "city": "1",
+            "area": "Varthur Gunjur",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "kbvivi69ka2obahl6ped",
+            "cuisines": [
+                "North Indian",
+                "Chaat",
+                "Snacks",
+                "Sweets",
+                "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "slaString": "30 MINS",
+            "lastMileTravel": 4.699999809265137,
+            "slugs": {
+                "restaurant": "laddoos-varthur-gunjur-varthur-gunjur",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "No 224/4 Ground Floor, Varthur Main Road, Gunjur Village, Bangalore varthur Hobli, Bangalore East Taluk, Bangalore, Mahadevapura, BBBP East, Karnataka - 560087, Bengaluru",
+            "locality": "Varthur Main Road",
+            "parentId": 584,
+            "unserviceable": false,
+            "veg": true,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=5744940~p=10~eid=00000185-e90c-5cf4-0b37-5ef300560a6e",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "4.6 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "471587",
+                "deliveryTime": 30,
+                "minDeliveryTime": 30,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 4.699999809265137,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.2",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "384059",
+            "name": "AB's - Absolute Barbecues",
+            "uuid": "11414ac0-fb5d-4676-860c-c056e9922ace",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "l7zkm50rfqiw3vnk7xte",
+            "cuisines": [
+                "Barbecue",
+                "Biryani",
+                "Chinese",
+                "Grill",
+                "Mughlai",
+                "North Indian",
+                "Seafood",
+                "Kebabs",
+                "Pan-Asian"
+            ],
+            "tags": [],
+            "costForTwo": 40000,
+            "costForTwoString": "₹400 FOR TWO",
+            "deliveryTime": 35,
+            "minDeliveryTime": 35,
+            "maxDeliveryTime": 35,
+            "slaString": "35 MINS",
+            "lastMileTravel": 3.5999999046325684,
+            "slugs": {
+                "restaurant": "ab’s-absolute-barbecues-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "No. 120-A2, EPIP Industrial Area, Sy No. 152, Hoodi Village, K.R.PuramHobli, Whitefield, Bangalore, Mahadevapura, B.B.M.P.East, Karnataka",
+            "locality": "Whitefield",
+            "parentId": 387759,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "3.5 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "384059",
+                "deliveryTime": 35,
+                "minDeliveryTime": 35,
+                "maxDeliveryTime": 35,
+                "lastMileTravel": 3.5999999046325684,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "3.6",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "442026",
+            "name": "Keventers Ice Cream",
+            "uuid": "8bcc075e-f2cb-470a-95f5-c6045ed31ad6",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "50+ ratings",
+            "cloudinaryImageId": "f9dd323cdbd125a7cdc708e5187630e4",
+            "cuisines": [
+                "Ice Cream",
+                "Desserts"
+            ],
+            "tags": [],
+            "costForTwo": 20000,
+            "costForTwoString": "₹200 FOR TWO",
+            "deliveryTime": 29,
+            "minDeliveryTime": 29,
+            "maxDeliveryTime": 29,
+            "slaString": "29 MINS",
+            "lastMileTravel": 4.099999904632568,
+            "slugs": {
+                "restaurant": "keventers-ice-creamery-varthur-main-road-thubarahalli-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "No 710 Varthur Main Road Thubarahalli, Whitefield, Bangalore-560037",
+            "locality": "Thubarahalli",
+            "parentId": 272044,
+            "unserviceable": false,
+            "veg": true,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "4 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "442026",
+                "deliveryTime": 29,
+                "minDeliveryTime": 29,
+                "maxDeliveryTime": 29,
+                "lastMileTravel": 4.099999904632568,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.0",
+            "totalRatings": 50,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "634321",
+            "name": "Theobroma",
+            "uuid": "b2770528-a60e-4d81-890f-109d9a112ed4",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "eb6ea8ccb576c5e3feeff7d18d1f3229",
+            "cuisines": [
+                "Bakery",
+                "Desserts",
+                "Beverages"
+            ],
+            "tags": [],
+            "costForTwo": 80000,
+            "costForTwoString": "₹800 FOR TWO",
+            "deliveryTime": 26,
+            "minDeliveryTime": 26,
+            "maxDeliveryTime": 26,
+            "slaString": "26 MINS",
+            "lastMileTravel": 3,
+            "slugs": {
+                "restaurant": "theobroma-siddapura-village-kadugodi",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "THEOBROMA FOODS PRIVATE LIMITED Survey No. 66/1, Siddapura Village, Varthur Hobli, B.B.M.P East, Karnataka-560066",
+            "locality": "Siddapura",
+            "parentId": 1040,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "10% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "10% off | Use SPECIALS",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "10% off on select items | Use code SPECIALS",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "10% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use SPECIALS",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "10% off on select items | Use code SPECIALS",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "ribbon": [
+                {
+                    "type": "PROMOTED"
+                }
+            ],
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "cid=5713968~p=13~eid=00000185-e90c-5cf4-0b37-5ef400560d7b",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "3 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "634321",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "lastMileTravel": 3,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": true,
+            "avgRating": "4.2",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "490585",
+            "name": "NOTO - Healthy Ice Cream",
+            "uuid": "cd3f278b-fab9-4b2a-a2b8-6b9f65208786",
+            "city": "1",
+            "area": "Marathalli",
+            "totalRatingsString": "100+ ratings",
+            "cloudinaryImageId": "51bd9c7efcc0e05c614c0e0674434e62",
+            "cuisines": [
+                "Ice Cream"
+            ],
+            "tags": [],
+            "costForTwo": 25000,
+            "costForTwoString": "₹250 FOR TWO",
+            "deliveryTime": 32,
+            "minDeliveryTime": 32,
+            "maxDeliveryTime": 32,
+            "slaString": "32 MINS",
+            "lastMileTravel": 5.5,
+            "slugs": {
+                "restaurant": "noto-healthy-ice-cream-marathahalli-marathahalli",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "SAI TOWERS,1st FLOOR,MUNNEKOLALA VARTHUR HOBLI, K R Puram, B.B.M.P East, Karnataka, 560036",
+            "locality": "Munnekolala",
+            "parentId": 7158,
+            "unserviceable": false,
+            "veg": true,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "5.5 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "490585",
+                "deliveryTime": 32,
+                "minDeliveryTime": 32,
+                "maxDeliveryTime": 32,
+                "lastMileTravel": 5.5,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.5",
+            "totalRatings": 100,
+            "new": false
+        },
+        "subtype": "basic"
+    },
+    {
+        "type": "restaurant",
+        "data": {
+            "type": "F",
+            "id": "424612",
+            "name": "chickpet donne biriyani house",
+            "uuid": "fcd3be65-a939-4c03-948d-55b053065105",
+            "city": "1",
+            "area": "Whitefield",
+            "totalRatingsString": "500+ ratings",
+            "cloudinaryImageId": "cem49mnxzx7b0vjmuxe0",
+            "cuisines": [
+                "Biryani",
+                "Chinese",
+                "North Indian",
+                "South Indian"
+            ],
+            "tags": [],
+            "costForTwo": 18000,
+            "costForTwoString": "₹180 FOR TWO",
+            "deliveryTime": 26,
+            "minDeliveryTime": 26,
+            "maxDeliveryTime": 26,
+            "slaString": "26 MINS",
+            "lastMileTravel": 2.200000047683716,
+            "slugs": {
+                "restaurant": "chickpet-donne-biriyani-house-whitefield-whitefield",
+                "city": "bangalore"
+            },
+            "cityState": "1",
+            "address": "Chickpet donne biriyani house Shop No.1, mr complex, opp HP petrol bunk Immadihalli, nagondahalli, main road, Whitefield, Karnataka 560066",
+            "locality": "nagondahalli",
+            "parentId": 243696,
+            "unserviceable": false,
+            "veg": false,
+            "select": false,
+            "favorite": false,
+            "tradeCampaignHeaders": [],
+            "aggregatedDiscountInfo": {
+                "header": "50% off",
+                "shortDescriptionList": [
+                    {
+                        "meta": "50% off | Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "aggregatedDiscountInfoV2": {
+                "header": "50% OFF",
+                "shortDescriptionList": [
+                    {
+                        "meta": "Use WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "descriptionList": [
+                    {
+                        "meta": "50% off up to ₹100 | Use code WELCOME50",
+                        "discountType": "Percentage",
+                        "operationType": "RESTAURANT"
+                    }
+                ],
+                "subHeader": "",
+                "headerType": 0,
+                "superFreedel": ""
+            },
+            "chain": [],
+            "feeDetails": {
+                "fees": [],
+                "totalFees": 0,
+                "message": "",
+                "title": "",
+                "amount": "",
+                "icon": ""
+            },
+            "availability": {
+                "opened": true,
+                "nextOpenMessage": "",
+                "nextCloseMessage": ""
+            },
+            "longDistanceEnabled": 0,
+            "rainMode": "NONE",
+            "thirdPartyAddress": false,
+            "thirdPartyVendor": "",
+            "adTrackingID": "",
+            "badges": {
+                "imageBased": [],
+                "textBased": [],
+                "textExtendedBadges": []
+            },
+            "lastMileTravelString": "2.2 kms",
+            "hasSurge": false,
+            "sla": {
+                "restaurantId": "424612",
+                "deliveryTime": 26,
+                "minDeliveryTime": 26,
+                "maxDeliveryTime": 26,
+                "lastMileTravel": 2.200000047683716,
+                "lastMileDistance": 0,
+                "serviceability": "SERVICEABLE",
+                "rainMode": "NONE",
+                "longDistance": "NOT_LONG_DISTANCE",
+                "preferentialService": false,
+                "iconType": "EMPTY"
+            },
+            "promoted": false,
+            "avgRating": "4.1",
+            "totalRatings": 500,
+            "new": false
+        },
+        "subtype": "basic"
+    }
+]
